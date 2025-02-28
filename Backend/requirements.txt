@@ -1,0 +1,5 @@
+Flask
+qrcode
+opencv-python
+numpy
+smtplib
